@@ -3160,10 +3160,12 @@
 
 /* Banner */
 
+
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/pexels-pixabay-356036.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pexels-kindel-media-9875408-cropped.jpg");
+		/* opacity: 0.6;*/
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
