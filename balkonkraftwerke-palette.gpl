@@ -1,0 +1,13 @@
+GIMP Palette
+Name: balkonkraftwerke-palette
+#
+  0   0   0 BLACK
+ 29  29  27 #1D1D1B
+102  36 129 #662481  /* dunkel-lila */
+158  25 129 #9E1981  /* lila */
+230   0 126 #E6007E  /* pink */
+232  78  14 #E84E0E  /* orange */
+232  78  15 #E84E0F
+240 136 182 #F088B6
+255 204   0 #FFCC00
+255 237   0 #FFED00   /* gelb */
